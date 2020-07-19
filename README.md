@@ -1,4 +1,4 @@
-### Checkout my Hackerrank Profile <a href= "https://www.hackerrank.com/tirodkar79">https://www.hackerrank.com/tirodkar79</a>
+### Visit my Hackerrank Profile <a href= "https://www.hackerrank.com/tirodkar79">https://www.hackerrank.com/tirodkar79</a>
 
 <!--
 **tirodkar79/tirodkar79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
