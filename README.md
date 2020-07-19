@@ -1,4 +1,4 @@
-### Hi there 👋
+### Checkout my Hackerrank Profile 
 
 <!--
 **tirodkar79/tirodkar79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
